@@ -1,0 +1,7 @@
+# numpy==1.18.5 
+# pandas==1.1.5
+# matplotlib==3.2.2 
+# tensorflow==2.3.0
+# Keras-Preprocessing==1.1.2
+# Keras==2.4.3
+# sklearn-pandas==1.8.0
